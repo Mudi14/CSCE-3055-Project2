@@ -1,1 +1,1 @@
-# CSCE-3055-Project2
+# Project 2: Extending the JWKS Server
